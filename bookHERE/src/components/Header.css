@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+svg{
+  width: 34px;
+}
+
+.logo{
+  display: flex;
+  align-items: last baseline;
+}
+
+a span {
+  font-weight: bold;
+  color: rgb(0, 0, 255);
+  font-size: 24px;
+}
