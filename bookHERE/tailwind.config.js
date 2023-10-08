@@ -5,7 +5,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: 'rgb(0, 0, 255)',
+        primary: '#009688',
       }
     },
   },
